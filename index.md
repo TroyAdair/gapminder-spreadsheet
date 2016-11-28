@@ -4,7 +4,7 @@ root: .
 lastupdated: August 18, 2015
 contributors: ["Christie Bahlai", "Aleksandra Pawlik", "Jennifer Bryan", "Alexander Duryee", "Jeffrey Hollister", "Daisie Huang", "Owen Jones", "Ben Marwick", "Tracy Teal"]
 maintainers: ["Aleksandra Pawlik", "Tracy Teal"]
-domain: Ecology
+domain: Social Science
 topic: Spreadsheets
 software: Spreadsheets
 dataurl: https://ndownloader.figshare.com/files/2252083
